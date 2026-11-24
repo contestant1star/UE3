@@ -12,7 +12,7 @@
 * Handles inventory management for UE3Character
 */
 UCLASS(MinimalAPI, Blueprintable, meta=(BlueprintSpawnableComponent) )
-class UE3ENGINE_API UPawnInventoryComponent : public UActorComponent
+class UPawnInventoryComponent : public UActorComponent
 {
 	GENERATED_BODY()
 

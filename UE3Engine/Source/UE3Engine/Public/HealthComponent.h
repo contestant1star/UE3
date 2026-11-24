@@ -12,7 +12,7 @@
 * Actor component used to handle health
 */
 UCLASS(MinimalAPI, Blueprintable, Meta=(BlueprintSpawnableComponent))
-class UE3ENGINE_API UHealthComponent : public UActorComponent
+class UHealthComponent : public UActorComponent
 {
 	GENERATED_BODY()
 

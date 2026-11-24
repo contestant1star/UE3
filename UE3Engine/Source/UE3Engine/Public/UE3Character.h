@@ -13,7 +13,7 @@
 * Add new behavior using components whenever possible.
 */
 UCLASS(Abstract, MinimalAPI, Config=Game)
-class UE3ENGINE_API AUE3Character : public ACharacter
+class AUE3Character : public ACharacter
 {
 	GENERATED_BODY()
 
