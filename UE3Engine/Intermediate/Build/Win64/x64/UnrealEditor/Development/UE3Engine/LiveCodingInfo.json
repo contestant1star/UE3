@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UE3Engine.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"UE3Engine.cpp.obj"
+		]
+	}
+}

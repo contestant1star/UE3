@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UE3Engine",
+	"Description": "Base Engine Classes",
+	"Category": "Other",
+	"CreatedBy": "Contestant1Star",
+	"CreatedByURL": "https://github.com/contestant1star",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UE3Engine",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

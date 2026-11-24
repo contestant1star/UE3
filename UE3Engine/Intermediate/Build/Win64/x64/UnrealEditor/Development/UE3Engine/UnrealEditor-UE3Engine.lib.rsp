@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-UE3Engine.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/SharedPCH.Engine.Cpp23.h.obj"
+"C:/Users/Jomar/Documents/Unreal Projects/UE3/Plugins/UE3/UE3Engine/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE3Engine/Module.UE3Engine.cpp.obj"
+/OUT:"C:/Users/Jomar/Documents/Unreal Projects/UE3/Plugins/UE3/UE3Engine/Intermediate/Build/Win64/x64/UnrealEditor/Development/UE3Engine/UnrealEditor-UE3Engine.lib"

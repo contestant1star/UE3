@@ -1,0 +1,9 @@
+{
+	"BuildId": "da2b8f48-9a3b-49bb-85a2-e93a852d3975",
+	"Compiler": "VisualStudio2026",
+	"CompilerVersion": "14.52.37029",
+	"Modules": 
+	{
+		"UE3Engine": "UnrealEditor-UE3Engine.dll"
+	}
+}
